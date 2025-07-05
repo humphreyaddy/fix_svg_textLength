@@ -8,7 +8,7 @@ Bioinformaticians, data scientists, and researchers often generate plots and vis
 
 However, many software packages that export `.svg` files embed a `textLength` attribute within the `<text>` elements. When opened in a graphics editor, this can **stretch or distort the text**, leading to unreadable or oddly spaced characters.
 
-This script provides a quick fix by **removing all `textLength` attributes** from `.svg` files before final editing.
+This script provides a quick fix by **avoiding all `textLength` attributes** from `.svg` files before final editing.
 
 ## 🛠️ What It Does
 
