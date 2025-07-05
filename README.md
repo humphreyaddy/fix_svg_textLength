@@ -20,7 +20,7 @@ This script provides a quick fix by **removing all `textLength` attributes** fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fix-svg-textLength.git
+   git clone https://github.com/humphreyaddy/fix_svg_textLength.git
    cd fix-svg-textLength
 2. Edit the path to where the .svg file(s) are located
 
